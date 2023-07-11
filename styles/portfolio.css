@@ -118,6 +118,11 @@ p {
   padding: 5px 10px;
   max-width: 100%;
 }
+.img-weather {
+  max-width: 110%;
+  padding-top: 35%;
+}
+
 nav {
   padding: 20px 0;
 }
